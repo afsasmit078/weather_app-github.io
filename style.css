@@ -15,7 +15,7 @@ body {
 }
 
 .header h4 {
-  color: #da1e4e;
+  color: #003366;
   font-weight: 700;
   font-size: 2.4rem;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -31,13 +31,13 @@ body {
   background: #c0dfec; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to top,
-    #92fe9d,
-    #c0dfec
+    #0F887F,
+    #4FC8FA
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to top,
-    #92fe9d,
-    #c0dfec
+    #0F887F,
+    #4FC8FA
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .app-main > * {
@@ -66,7 +66,7 @@ body {
   display: none;
   background: linear-gradient(
     to top,
-    #da1e4e,
+    #003366,
     #e4603a
   );
 }
